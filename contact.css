@@ -1,0 +1,65 @@
+/* Overall Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Minor color */
+}
+
+/* Contact Banner */
+.contact-banner {
+    background-color: #fdf6ee;
+    padding: 40px 20px;
+}
+
+.contact-title {
+    font-weight: bold;
+    color: #164A28; /* Major Green */
+}
+
+/* Contact Section */
+.contact-section {
+    padding: 40px 0;
+}
+
+.section-title {
+    font-weight: bold;
+    color: #164A28; /* Major Green */
+    margin-bottom: 20px;
+}
+
+.sub-title {
+    font-weight: bold;
+    color: #164A28; /* Major Green */
+    margin-top: 20px;
+}
+
+/* Contact Table */
+.contact-table th {
+    background-color: #164A28; /* Major Green */
+    color: white;
+}
+
+.contact-table td {
+    color: #164A28;
+    font-weight: bold;
+}
+
+/* Contact Form */
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.submit-btn {
+    background-color: black; /* Olive Green */
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.submit-btn:hover {
+    background-color: #164A28;
+    color: white;
+}
+

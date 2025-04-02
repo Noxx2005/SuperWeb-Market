@@ -1,0 +1,69 @@
+/* Overall Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Minor Color */
+}
+
+/* Contact Banner */
+.contact-banner {
+    background-color: #fdf6ee;
+    padding: 40px 20px;
+}
+
+.contact-title {
+    font-weight: bold;
+    color: #164A28; /* Major Green */
+}
+
+/* About Section */
+.about-section {
+    padding: 40px 0;
+}
+
+.about-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.about-title {
+    font-weight: bold;
+    color: #164A28; /* Major Green */
+    margin-top: 15px;
+}
+
+.about-text {
+    color: #333;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+/* Highlight Section */
+.highlight-section {
+    padding: 40px 20px;
+}
+
+.highlight-subtitle {
+    font-style: italic;
+    font-weight: bold;
+    color: #A8B400; /* Middle Green */
+}
+
+.highlight-title {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #164A28; /* Major Green */
+}
+.who-we-are {
+    background: linear-gradient(to right, #ffcc00, #ff9900);
+    color: #1d1d1d;
+}
+
+.who-we-are h2 {
+    color: #000;
+}
+
+.who-we-are p {
+    font-size: 1.1rem;
+    color: #333;
+}
