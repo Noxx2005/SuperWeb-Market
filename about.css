@@ -67,3 +67,9 @@ body {
     font-size: 1.1rem;
     color: #333;
 }
+.about-img {
+    width: 100%; /* Ensures responsiveness */
+    max-height: 500px; /* Adjust the max height as needed */
+    object-fit: contain; /* Ensures the image maintains aspect ratio */
+    border-radius: 10px; /* Optional: Adds rounded corners for a clean look */
+}
